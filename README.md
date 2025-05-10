@@ -63,7 +63,7 @@ CustomerChurnPrediction/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/CustomerChurnPrediction.git
+   git clone https://github.com/Sethu0073/CustomerChurnPrediction.git
    ```
 
 2. Install dependencies:
